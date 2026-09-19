@@ -1,0 +1,2 @@
+If tesseract.exe is not on PATH, set TESSERACT_CMD in .env, for example:
+TESSERACT_CMD=C:\\Program Files\\Tesseract-OCR\\tesseract.exe
